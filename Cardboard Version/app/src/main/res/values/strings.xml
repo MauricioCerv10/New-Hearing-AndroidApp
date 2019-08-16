@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">New Hearing</string>
+    <string name="emptystr" />
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="btonText">Iniciar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="welcome_title">NewHering</string>
+    <string name="welcome_text">Programming your life</string>
+    <string name="login">Log in</string>
+    <string name="user_email">User</string>
+    <string name="user_password">Password</string>
+</resources>

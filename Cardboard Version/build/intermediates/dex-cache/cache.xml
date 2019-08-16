@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\libs\cardboard.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\cardboard_f175a58c8fe06665f1e11f43805f5dcc615bce97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\com.android.support-design-22.2.1_bf84e0a1f11888aa777149780d74a925bf0e38a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-22.2.1_e48415b603a1cd8fdad412af7aa016fd8138491e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1_a2563e52a0e0326f15ee035bf682487ca578c894.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\butterknife-7.0.1_24d8300ceca832f0329491972da6041ff94d0d5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-22.2.1_f1378c720c15f143037f93ad02a11d5afde6b8aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.1_0aed1459bcb4e486bd49331740ea4687dec0b307.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Alumno\Desktop\Cardboard Version\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1_e124614d99a31635cc1ad97bab49e8cb77867c0d.jar" />
+    </item>
+
+</items>

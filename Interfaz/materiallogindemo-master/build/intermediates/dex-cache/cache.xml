@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2a03a47b45a3c8a0658759a3ee68977716b72ce8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-5b93c0998c2ce8a8d5881711d2f3d12078a35d71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-6c75c2893b1643688b02b8e50ad5eb0e57e4d3de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-efaee8c819798c166fcb3be9d20ba566a4cea689.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-24d8300ceca832f0329491972da6041ff94d0d5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alumno\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Alumno\Desktop\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-9ab8dc218581ffd605526df2d94e6e0b3c5df091.jar" />
+    </item>
+
+</items>
